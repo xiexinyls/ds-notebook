@@ -3,5 +3,5 @@ This is a collection of my notes when I am learning the statistical model and da
 
 [Statistical Learning Notes] (https://github.com/xiexinyls/ds_notebook/blob/master/statistical_learning.ipynb)
 
-[Test of scikit-learn Classifiers on iris dataset] (https://github.com/xiexinyls/ds-notebook/blob/master/classifier.ipynb)
+[Brief Introduction to scikit-learn Classifiers] (https://github.com/xiexinyls/ds-notebook/blob/master/classifier.ipynb)
 

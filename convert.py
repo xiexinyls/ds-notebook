@@ -17,3 +17,4 @@ mdtext = markdown(tmp[0])
 finalOutput = reconstructMath(mdtext,tmp[1])
 
 print finalOutput.encode('utf8')
+

@@ -40,3 +40,13 @@ gdf_3174['area_km'] = gdf_3174.area/10.e6
 
 gpd_out.sjoin( gdf1, gdf2, how='left', op='intersects' )
 ```
+
+# matplotlib
+```
+locs, labels = plt.xticks()
+plt.xticks( np.arange(5), ('Tom', 'Dick', 'Harry', 'Sally', 'Sue') )
+
+plt.savefig( 'plot.png', dpi=150, bbox_inches='tight' )
+
+plt.savefig( 'plot.png', dpi=100, bbox_inches='tight', pad_inches=0 )
+```
